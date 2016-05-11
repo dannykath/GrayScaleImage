@@ -1,0 +1,13 @@
+<!doctype html>
+<html>
+<head>
+  <title>Prueba</title>
+</head>
+<body>
+   <a href="formulario.html">Subir Fotos</a></p>
+   <a href="listadofotos">Mostrar fotos subidas</a></p>
+   <a href="convertirFoto">Convertir Foto</a></p>
+<a href="MostrarFoto">Mostrar foto convertida</a></p>
+
+</body>
+</html>

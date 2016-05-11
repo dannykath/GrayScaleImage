@@ -1,0 +1,18 @@
+{
+  "name": "proyecto",
+  "version": "1.0.0",
+  "description": "Convertir inagen a escala de grises ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Danny Aiquipa",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.4",
+    "globby": "^4.0.0",
+    "gulp": "^3.9.1",
+    "gulp-image-grayscale": "^2.0.3",
+    "image-grayscale": "^1.0.2"
+  }
+}
